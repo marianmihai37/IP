@@ -3,8 +3,8 @@
 ### TO DO LIST:
 
  - #### Forward Engineering:
-    - [ ] Diagrame de clasa
-    - [ ] Obtinere fisiere .class
+    - [x] Diagrame de clasa
+    - [x] Obtinere fisiere .class
     
     
 - #### Reverse Engineering: 
