@@ -9,4 +9,4 @@
     
 - #### Reverse Engineering: 
     - [ ] Fisiere ArgoUML
-    - [ ] Fisiere .java
+    - [x] Fisiere .java
